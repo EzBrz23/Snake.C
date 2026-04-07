@@ -1,4 +1,4 @@
-# 🐍 Snake Game em C
+#  Snake Game em C
 
 Jogo da cobrinha feito em C usando console do Windows.
 
